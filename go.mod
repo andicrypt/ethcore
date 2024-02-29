@@ -1,4 +1,4 @@
-module github.com/ethpandaops/ethcore
+module github.com/andicrypt/ethcore
 
 go 1.19
 
